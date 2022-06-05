@@ -1,3 +1,4 @@
+document.body.style.backgroundImage = "url('bas.jpg')";
 var player_1 = localStorage.getItem("player_1");
 var player_2 = localStorage.getItem("player_2");
 
